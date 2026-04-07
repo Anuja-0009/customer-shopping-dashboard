@@ -69,10 +69,11 @@ The goal of this dashboard is to transform raw data into meaningful insights tha
 
 ## 🔹 Dashboard Preview
 
+ customer_1 : https://github.com/Anuja-0009/customer-shopping-dashboard/blob/main/customer_1.png
 
+ customer_2 : https://github.com/Anuja-0009/customer-shopping-dashboard/blob/main/customer_2.png
 
-
-
+ customer_3:  https://github.com/Anuja-0009/customer-shopping-dashboard/blob/main/customer_3.png
 
 --------
 
